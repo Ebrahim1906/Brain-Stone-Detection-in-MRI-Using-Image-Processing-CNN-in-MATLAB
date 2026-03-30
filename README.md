@@ -1,0 +1,2 @@
+# Brain-Stone-Detection-in-MRI-Using-Image-Processing-CNN-in-MATLAB
+-> Automated Detection: MATLAB system with image processing &amp; CNNs identifies brain stones in MRI scans.-> Image Analysis: Preprocessing, guided filtering, Otsu thresholding, edge detection, and temperature mapping highlight calcified regions.-> High Accuracy CNN: CNN achieved 96.25% accuracy with strong precision, recall, and F1 scores.
